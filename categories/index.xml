@@ -6,40 +6,22 @@
     <description>Recent content in Categories on FamouSelect 名選</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 11 May 2023 18:32:47 +0800</lastBuildDate><atom:link href="https://famouselect.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Go Language</title>
-      <link>https://famouselect.github.io/categories/go-language/</link>
-      <pubDate>Thu, 11 May 2023 18:32:47 +0800</pubDate>
-      
-      <guid>https://famouselect.github.io/categories/go-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>技能分享</title>
-      <link>https://famouselect.github.io/categories/%E6%8A%80%E8%83%BD%E5%88%86%E4%BA%AB/</link>
-      <pubDate>Thu, 11 May 2023 18:32:47 +0800</pubDate>
-      
-      <guid>https://famouselect.github.io/categories/%E6%8A%80%E8%83%BD%E5%88%86%E4%BA%AB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>站長教學讚</title>
-      <link>https://famouselect.github.io/categories/%E7%AB%99%E9%95%B7%E6%95%99%E5%AD%B8%E8%AE%9A/</link>
-      <pubDate>Thu, 11 May 2023 18:32:47 +0800</pubDate>
-      
-      <guid>https://famouselect.github.io/categories/%E7%AB%99%E9%95%B7%E6%95%99%E5%AD%B8%E8%AE%9A/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://famouselect.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Android And Gaming</title>
       <link>https://famouselect.github.io/categories/android-and-gaming/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://famouselect.github.io/categories/android-and-gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go Language</title>
+      <link>https://famouselect.github.io/categories/go-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://famouselect.github.io/categories/go-language/</guid>
       <description></description>
     </item>
     
