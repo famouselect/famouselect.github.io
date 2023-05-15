@@ -2,13 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://famouselect.github.io/categories/android-and-gaming/</loc>
+    <lastmod>2023-05-12T18:52:47+08:00</lastmod>
+  </url><url>
+    <loc>https://famouselect.github.io/categories/</loc>
+    <lastmod>2023-05-12T18:52:47+08:00</lastmod>
+  </url><url>
+    <loc>https://famouselect.github.io/</loc>
+    <lastmod>2023-05-12T18:52:47+08:00</lastmod>
+  </url><url>
+    <loc>https://famouselect.github.io/tags/game/</loc>
+    <lastmod>2023-05-12T18:52:47+08:00</lastmod>
+  </url><url>
+    <loc>https://famouselect.github.io/blog/%E7%AC%AC%E4%BA%8C%E7%AF%87/</loc>
+    <lastmod>2023-05-12T18:52:47+08:00</lastmod>
+  </url><url>
+    <loc>https://famouselect.github.io/tags/new/</loc>
+    <lastmod>2023-05-12T18:52:47+08:00</lastmod>
+  </url><url>
+    <loc>https://famouselect.github.io/tags/photos/</loc>
+    <lastmod>2023-05-12T18:52:47+08:00</lastmod>
+  </url><url>
+    <loc>https://famouselect.github.io/tags/python/</loc>
+    <lastmod>2023-05-12T18:52:47+08:00</lastmod>
+  </url><url>
+    <loc>https://famouselect.github.io/tags/react/</loc>
+    <lastmod>2023-05-12T18:52:47+08:00</lastmod>
+  </url><url>
+    <loc>https://famouselect.github.io/tags/</loc>
+    <lastmod>2023-05-12T18:52:47+08:00</lastmod>
+  </url><url>
     <loc>https://famouselect.github.io/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
     <loc>https://famouselect.github.io/blog/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
-    <loc>https://famouselect.github.io/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
     <loc>https://famouselect.github.io/contact/</loc>
@@ -16,15 +43,6 @@
   </url><url>
     <loc>https://famouselect.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
-    <loc>https://famouselect.github.io/categories/android-and-gaming/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://famouselect.github.io/categories/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://famouselect.github.io/tags/game/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://famouselect.github.io/categories/go-language/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
@@ -77,25 +95,10 @@
     <loc>https://famouselect.github.io/categories/html-css/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://famouselect.github.io/tags/new/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://famouselect.github.io/tags/photos/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
     <loc>https://famouselect.github.io/categories/programming-language/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://famouselect.github.io/tags/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
     <loc>https://famouselect.github.io/categories/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://famouselect.github.io/tags/react/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://famouselect.github.io/tags/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://famouselect.github.io/categories/web-design/</loc>
